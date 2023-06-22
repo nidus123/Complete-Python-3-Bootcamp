@@ -32,3 +32,6 @@ print (f"{name} is {'old' if age>50 else 'young'} and {'a man' if sex == 'Male' 
 
 print (f"{name} is {'old' if age else 'young'} and {'a man' if sex == 'Male' else 'a woman'}")
 
+
+x="rules!"
+print (f"Python {x}")
